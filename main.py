@@ -1,1 +1,5 @@
-main.py
+import sysconfig
+
+sample = "sample"
+
+print(sample)
