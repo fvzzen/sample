@@ -1,7 +1,7 @@
 import sysconfig
 
-sample = "sample"
+sample = "much better sample"
 
-x = 43
+x = "43"
 
-print(sample)
+print(sample + x)
